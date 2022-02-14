@@ -1,0 +1,15 @@
+body {
+  padding: 0;
+  background-image: url("record.png")
+}
+
+.title {
+  background-color: DarkOrange;
+  color: LightGray;
+  text-align: center;
+}
+
+.info {
+  padding: 1em;
+  background-color: LightGray;
+}
